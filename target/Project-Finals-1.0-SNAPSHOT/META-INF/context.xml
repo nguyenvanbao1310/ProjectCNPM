@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path ="/Project-Finals-jdbc">
+    <Resource 
+        name="jdbc/quanlyshopdienthoai"
+        auth="Container"
+        type="javax.sql.DataSource"
+        maxTotal="100"
+        maxIdle="30"
+        maxWaitMillis="10000"
+        username="root"
+        password="123456"
+        driverClassName="com.mysql.cj.jdbc.Driver"
+        url="jdbc:mysql://localhost:3306/quanlyshopdienthoai?useSSL=false&amp;serverTimezone=UTC"
+    />
+</Context>
+<!-- Chưa có giao diện đẹp mắt, chưa kết nối với các phần khác nên phải khai báo id người dùng thủ công -->

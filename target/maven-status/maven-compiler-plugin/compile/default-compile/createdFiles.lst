@@ -1,0 +1,8 @@
+Model\DAO\ChatBoxDAO.class
+util\EmailSender.class
+controller\ChatBoxController.class
+Model\Entity\ChatMessage.class
+util\EmailSender$1.class
+com\mycompany\project\finals\resources\JakartaEE10Resource.class
+com\mycompany\project\finals\JakartaRestConfiguration.class
+Model\DAO\DatabaseConnection.class
