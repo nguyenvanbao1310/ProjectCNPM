@@ -1,0 +1,10 @@
+controller\PromotionController.class
+com\mycompany\km\JakartaRestConfiguration.class
+dao\PhoneDAO.class
+model\Promotion.class
+model\DiscountType.class
+model\Phone.class
+service\PromotionService.class
+com\mycompany\km\resources\JakartaEE8Resource.class
+dao\PromotionDAO.class
+service\PhoneService.class
